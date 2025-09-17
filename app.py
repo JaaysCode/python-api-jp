@@ -30,6 +30,9 @@ def get_day(day_id):
 def post_days():
     return jsonify({"success": True}), 201
 
+@app.route("/commit_1", methods=["POST"])
+def post_commit_1():
+    return jsonify({"Soy la copia del post1 para el commit 1 y te voy a abrazar ": True}), 201
 
 if __name__ == "__main__":
     app.run(debug=True)
