@@ -1,6 +1,12 @@
 ## Overview
 
 A super simple RESTful api created using Flask. The idea is to have a simple api that can be used with pipeline demos and proof of concepts.
+En la que Juan Pablo Cardona hizo unn fork para el examen #1 de gestion de la configuracion
+
+La modificacion del app.py cuenta como el commit 1
+La modificacion del Dockerfile como el commit 2
+La modificacion de este README como el commit 3
+:D
 
 ## Installation
 
